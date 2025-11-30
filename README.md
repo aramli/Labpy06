@@ -1,4 +1,4 @@
-# Praktikum5
+# Praktikum 6
 Tugas Pemrograman Dasar Pertemuan Ke 11 <br>
 
 NAMA    : Andi Ramli Hidayat <br>
